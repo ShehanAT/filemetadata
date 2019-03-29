@@ -13,7 +13,7 @@ $ git clone git@github.com:heroku/node-js-getting-started.git # or clone your ow
 $ cd node-js-getting-started
 $ npm install
 $ npm start
-```
+``` 
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
